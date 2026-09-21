@@ -16,7 +16,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 # PAGE CONFIG
 # ============================================================
 st.set_page_config(
-    page_title="CRICKETIQ | Score & Win Probability",
+    page_title="CRICKCAST | Score & Win Probability",
     page_icon="🏏",
     layout="wide",
     initial_sidebar_state="expanded",
