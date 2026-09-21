@@ -633,7 +633,7 @@ st.markdown(
     f"""
     <div class="hero">
         <div class="hero-kicker">CRICKET ANALYTICS LAB · MACHINE LEARNING + PROBABILITY</div>
-        <div class="hero-title">CRICKETIQ</div>
+        <div class="hero-title">CRICKCAST</div>
         <div class="hero-sub">
             Cricket Score Prediction & Dynamic Win Probability Estimation —
             a polished academic dashboard built directly from your notebook's
